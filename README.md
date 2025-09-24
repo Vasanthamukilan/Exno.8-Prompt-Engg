@@ -190,6 +190,4 @@ Use vibrant flat colors, comic-style texturing, and background elements like spe
 
 These experiments highlight the versatility of **prompt engineering** in controlling AI image transformations. By carefully designing the prompts, it’s possible to achieve consistent, expressive, and creative outputs while maintaining subject identity.
 
-Feel free to fork this repository and try your own style conversions!
-
 ---
